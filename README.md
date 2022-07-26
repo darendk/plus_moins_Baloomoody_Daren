@@ -19,4 +19,5 @@ Le jeu se poursuivra pendant un nombre de tours défini au début du match et à
 ***
 ## Installation ##
 Allez sur script, compilez script/plus_moins.c.
+
 **Baloomoody Daren Devakumaren INFO21 Year1**
